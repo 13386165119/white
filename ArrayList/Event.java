@@ -1,5 +1,6 @@
 import java.time.LocalDate;
 import java.util.ArrayList;
+import com.example.eventmanagement.Attendee;
 public class Event { 
     private String eventID;
     private String eventName;
